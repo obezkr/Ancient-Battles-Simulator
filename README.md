@@ -7,10 +7,10 @@ your own level, go to redactor, place some red units, press R and copy that stuf
 create .txt file in "levels" folder, for example, 38.txt, paste text inside and save. Further instutions and game tips 
 will be on gamejolt's game page. As usual, have fun playing.
 
-###Video: 
+### Video: 
 
 [https://www.youtube.com/watch?v=HKWR5nuv4nM](https://www.youtube.com/watch?v=HKWR5nuv4nM)
 
-###Download:
+### Download:
 
 [https://gamejolt.com/games/Ancient_Battles_Simulator/680756](https://gamejolt.com/games/Ancient_Battles_Simulator/680756)
